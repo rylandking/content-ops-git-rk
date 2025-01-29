@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Remey! - Unblock your team boost your time to production!
+      text: Unblock your team boost your time to production
       color: text-dark
     subtitle: Subtitle goes here
     text: >
