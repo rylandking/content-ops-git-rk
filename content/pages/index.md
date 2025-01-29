@@ -2,6 +2,61 @@
 title: Home
 slug: /
 sections:
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Remey! - Unblock your team boost your time to production!
+      color: text-dark
+    subtitle: Subtitle goes here
+    text: >
+      Make layout, styling, image, text, etc. changes all in a way your
+      developers will love!
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/main-hero.svg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
+    elementId: ''
+    colors: bg-light-fg-dark
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+        padding:
+          - pt-16
+          - pl-16
+          - pb-52
+          - pr-16
   - type: CarouselSection
     subtitle: This is a subtitle
     items:
@@ -72,61 +127,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Remey! - Unblock your team boost your time to production!
-      color: text-dark
-    subtitle: Subtitle goes here
-    text: >
-      Make layout, styling, image, text, etc. changes all in a way your
-      developers will love!
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-      - type: Link
-        label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-    elementId: ''
-    colors: bg-light-fg-dark
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-        padding:
-          - pt-16
-          - pl-16
-          - pb-52
-          - pr-16
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
