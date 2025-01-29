@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Zee - Unblock your team boost your time to production!
+      text: Remey! - Unblock your team boost your time to production!
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
