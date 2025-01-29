@@ -57,7 +57,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/Screenshot 2025-01-29 at 12.22.09 PM.png
   - type: CarouselSection
     subtitle: This is a subtitle
     items:
