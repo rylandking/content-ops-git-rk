@@ -50,7 +50,7 @@ sections:
       opacity: 100
     styles:
       self:
-        alignItems: center
+        alignItems: flex-end
         flexDirection: row-reverse
         padding:
           - pt-16
